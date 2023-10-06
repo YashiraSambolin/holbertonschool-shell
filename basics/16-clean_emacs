@@ -1,2 +1,2 @@
-16-clean_emacs
+#!/bin/bash
 rm *~
